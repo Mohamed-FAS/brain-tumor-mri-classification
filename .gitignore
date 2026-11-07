@@ -1,0 +1,15 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+*.h5
+*.weights.h5
+brain_tumor_mri_work/
+flat_four_classes/
+train_val_test/
+weights/
