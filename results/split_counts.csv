@@ -1,0 +1,5 @@
+class_name,test,train,validation
+glioma,947,4414,946
+meningioma,960,4473,958
+normal,461,2146,459
+pituitary,887,4135,886

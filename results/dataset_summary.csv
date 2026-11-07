@@ -1,0 +1,9 @@
+Item,Value
+Dataset Name,Brain Tumors MRI Dataset
+Dataset Link,https://www.kaggle.com/datasets/mohammadhossein77/brain-tumors-dataset
+Dataset Size (MB),223.35 MB
+Original Sample Image Dimensions,224 x 224
+Original Colour Mode,RGB
+Model Input Image Dimensions,224 x 224 x 3
+Number of Classes,4
+Total Number of Images,21672

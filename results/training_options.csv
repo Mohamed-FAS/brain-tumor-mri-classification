@@ -1,0 +1,14 @@
+Training Option,Value
+Input Image Size,224 x 224 x 3
+Batch Size,32
+Number of Classes,4
+Training / Validation / Test Split,70% / 15% / 15%
+Phase 1 Epochs,5
+Phase 1 Learning Rate,0.001
+Phase 2 Fine-tuning Epochs,5
+Phase 2 Fine-tuning Learning Rate,1e-05
+Optimizer,Adam
+Loss Function,Sparse Categorical Crossentropy
+Dropout Ratios,0.35 and 0.25
+Class Imbalance Handling,Class weights
+Callbacks,"ModelCheckpoint, EarlyStopping, ReduceLROnPlateau"
